@@ -2,9 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <>
-    <h1> This is a test heading </h1>
-    </>
+    <div>App</div>
   )
 }
 
